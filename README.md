@@ -1,6 +1,5 @@
-# weather_app
-
-A new Flutter project.
+# Weathercast
+An app developed using Flutter SDK with a clean and sleek UI. It retrieves live weather data from OpenWeatherMap API using location obtained from the user through Geolocator plugin and real time location search.
 
 ## Getting Started
 
